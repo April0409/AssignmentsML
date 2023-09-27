@@ -14,7 +14,7 @@ def power(a, b, c):
  
     return x % c
 
-#compute the Multiplicative inverse with extend-euclidean-algorithm
+#Compute the Multiplicative inverse with extend-euclidean-algorithm
 def mutilInv(b,n):
     a0 = n
     b0 = b
