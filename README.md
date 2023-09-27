@@ -1,12 +1,12 @@
 # AssignmentsML
-###shareing implementations about some elementary algorithms
+### shareing implementations about some elementary algorithms
 
 
-####Cryptography
-*ElGamalPublicKeyCryptosystem
-*ExtendedEuclideanAlgorithms
-*RSACryptosystem
-*RSAPARAMETERGENERATION
-*SQUARE-AND-MULTIPLY
-*ThePermutationCipher
-*TheVigenereCipher
+#### Cryptography
+* ElGamalPublicKeyCryptosystem
+* ExtendedEuclideanAlgorithms
+* RSACryptosystem
+* RSAPARAMETERGENERATION
+* SQUARE-AND-MULTIPLY
+* ThePermutationCipher
+* TheVigenereCipher
