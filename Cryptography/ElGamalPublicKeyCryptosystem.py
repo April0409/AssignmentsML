@@ -48,7 +48,7 @@ def decryElgamal(y1,y2,a,p):
     x = ((y2%p)*x)%p
     return x
 
-#initialization with example7.1
+#Initialization with example7.1
 def main():
     p = 2579
     α = 2
