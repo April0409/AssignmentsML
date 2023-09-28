@@ -1,7 +1,7 @@
 #Python program for ElGamal Public-key Cryptosystem 
 import math
 # Quick compute the modular exponentiation 
-# Using square-and-multiply method
+# Using Square-And-Multiply method
 def power(a, b, c):
     x = 1
     y = a
