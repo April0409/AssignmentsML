@@ -1,1 +1,1 @@
-# I use this profit for testing vscode and github
+# I use this file to test vscode and github
