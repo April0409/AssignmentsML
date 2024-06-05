@@ -10,3 +10,10 @@
 * SQUARE-AND-MULTIPLY
 * ThePermutationCipher
 * TheVigenereCipher
+
+#### Data Mining
+* Assignment1
+* Assignment2
+* Assignment3
+* Assignment4
+* Reservoir
